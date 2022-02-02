@@ -1,0 +1,16 @@
+.navbar-light{
+    background-color: #daefff;
+}
+
+.break-crumb{
+    background-color: rgba(220, 227, 230, 0.692);
+}
+.hvr{
+    background-color: rgb(240, 240, 240);
+    font-weight: 600;
+    font-size: 20px;
+}
+.hvr:hover{
+    text-decoration: underline;
+    color: #0d6efd;
+}
